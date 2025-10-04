@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Sergey Yakubson,
+### Hi there 👋 I'm Ivan Ivanov,
 
-ML Engineer worked with CV, NLP and Classical machine learning models. Built full cycle of development: from data collection and preparation to
+ML Engineer worked with NLP and Classical machine learning models. Built full cycle of development: from data collection and preparation to
 model training, metrics logging, packaging into production service, and setting up CI/CD for automatic deployment
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
