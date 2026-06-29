@@ -1,12 +1,9 @@
 **Sergey Yakubson**  
-*Research ML Engineer · CV · NLP · Classical ML*  
-
-I build the full ML cycle: from data collection and preparation to model training, metrics
-logging, packaging into a production service, and setting up CI/CD for automatic deployment.
+*Research ML Engineer | CV | NLP | Classical ML*  
 
 ### Research Papers
 
-**GigaCheck: Detecting LLM-Generated Content** — *ACL Findings 2026* · [arXiv](https://arxiv.org/abs/2410.23728)
+**GigaCheck: Detecting LLM-Generated Content** — *ACL Findings 2026* | [arXiv](https://arxiv.org/abs/2410.23728)
 ```bibtex
 @article{tolstykh2024gigacheck,
   title={Gigacheck: Detecting llm-generated content},
@@ -16,7 +13,7 @@ logging, packaging into a production service, and setting up CI/CD for automatic
 }
 ```
 
-**VIBE: Visual Instruction Based Editor** · [arXiv](https://arxiv.org/abs/2601.02242)
+**VIBE: Visual Instruction Based Editor** | [arXiv](https://arxiv.org/abs/2601.02242)
 ```bibtex
 @article{alekseenko2026vibe,
   title={VIBE: Visual Instruction Based Editor},
@@ -26,10 +23,18 @@ logging, packaging into a production service, and setting up CI/CD for automatic
 }
 ```
 
+**LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text** | [arXiv](https://arxiv.org/abs/2509.21269)
+```bibtex
+@article{tolstykh2025llmtrace,
+  title={LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text},
+  author={Tolstykh, Irina and Tsybina, Aleksandra and Yakubson, Sergey and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2509.21269},
+  year={2025}
+}
+```
+
 ### Some of My Projects
 - [Procedural Galaxy](https://github.com/syakubson/procedural-galaxy) — an interactive procedural spiral galaxy in the browser with explorable star systems, generated from a seed and GPU-driven to run on weak PCs (Three.js, no build step). 🌌 **Live demo:** https://galaxy-lyart-one.vercel.app
-- [ML Deploy Example](https://github.com/syakubson/deploy-example-ml) — reference FastAPI + Gradio ML service with CI/CD deployment.
-- [nanoclaw](https://github.com/syakubson/nanoclaw) — a lightweight, containerized agent on Anthropic's Agents SDK (Telegram / Slack / Discord / Gmail) with memory and scheduled jobs.
 
 ### Education
 **Bauman Moscow State Technical University (BMSTU)** — Specialist's degree in Optical Devices and Digital Signal Processing, 2021.
