@@ -38,18 +38,3 @@
 
 ### Education
 **Bauman Moscow State Technical University (BMSTU)** — Specialist's degree in Optical Devices and Digital Signal Processing, 2021.
-
-### My Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,opencv,cpp,kubernetes,docker,aws,azure,gitlab,git,github,vscode" />
-  </a>
-</p>
-
-### Connect with me
-
-[<img align="left" alt="Sergey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Sergey | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
-[LinkedIn]: https://www.linkedin.com/in/sergei-iakubson
-[Gmail]: mailto:serg.yakubson@gmail.com
