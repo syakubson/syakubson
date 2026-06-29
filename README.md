@@ -1,28 +1,50 @@
-### Hi there 👋 I'm Sergey Yakubson,
+**Sergey Yakubson**  
+*Research ML Engineer · CV · NLP · Classical ML*  
 
-ML Engineer worked with CV, NLP and Classical machine learning models. Built full cycle of development: from data collection and preparation to
-model training, metrics logging, packaging into production service, and setting up CI/CD for automatic deployment
+I build the full ML cycle: from data collection and preparation to model training, metrics
+logging, packaging into a production service, and setting up CI/CD for automatic deployment.
 
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Games, Memes, Movies, Photography 📸
+### Research Papers
 
-### My skills include
+**GigaCheck: Detecting LLM-Generated Content** — *ACL Findings 2026* · [arXiv](https://arxiv.org/abs/2410.23728)
+```bibtex
+@article{tolstykh2024gigacheck,
+  title={Gigacheck: Detecting llm-generated content},
+  author={Tolstykh, Irina and Tsybina, Aleksandra and Yakubson, Sergey and Gordeev, Aleksandr and Dokholyan, Vladimir and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2410.23728},
+  year={2024}
+}
+```
+
+**VIBE: Visual Instruction Based Editor** · [arXiv](https://arxiv.org/abs/2601.02242)
+```bibtex
+@article{alekseenko2026vibe,
+  title={VIBE: Visual Instruction Based Editor},
+  author={Alekseenko, Grigorii and Gordeev, Aleksandr and Tolstykh, Irina and Suleimanov, Bulat and Dokholyan, Vladimir and Fedorov, Georgii and Yakubson, Sergey and Tsybina, Aleksandra and Chernyshov, Mikhail and Kuprashevich, Maksim},
+  journal={arXiv preprint arXiv:2601.02242},
+  year={2026}
+}
+```
+
+### Some of My Projects
+- [Procedural Galaxy](https://github.com/syakubson/procedural-galaxy) — an interactive procedural spiral galaxy in the browser with explorable star systems, generated from a seed and GPU-driven to run on weak PCs (Three.js, no build step). 🌌 **Live demo:** https://galaxy-lyart-one.vercel.app
+- [ML Deploy Example](https://github.com/syakubson/deploy-example-ml) — reference FastAPI + Gradio ML service with CI/CD deployment.
+- [nanoclaw](https://github.com/syakubson/nanoclaw) — a lightweight, containerized agent on Anthropic's Agents SDK (Telegram / Slack / Discord / Gmail) with memory and scheduled jobs.
+
+### Education
+**Bauman Moscow State Technical University (BMSTU)** — Specialist's degree in Optical Devices and Digital Signal Processing, 2021.
+
+### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,opencv,cpp,kubernetes,docker,bitbucket,aws,azure,gitlab,git,github,vscode,vim,notion" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,opencv,cpp,kubernetes,docker,aws,azure,gitlab,git,github,vscode" />
   </a>
 </p>
 
-<hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/sergei-iakubson"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:serg.yakubson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+### Connect with me
 
-<br>
-</p>    
+[<img align="left" alt="Sergey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Sergey | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+
+[LinkedIn]: https://www.linkedin.com/in/sergei-iakubson
+[Gmail]: mailto:serg.yakubson@gmail.com
