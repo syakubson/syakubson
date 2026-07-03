@@ -1,5 +1,5 @@
 **Sergey Yakubson**  
-*Research ML Engineer | CV | NLP | Classical ML*  
+*Research ML Engineer | CV | NLP*  
 
 ### Research Papers
 
